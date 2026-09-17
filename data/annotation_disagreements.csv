@@ -1,0 +1,573 @@
+task_id,post_id,annotator1_task_a,annotator1_task_b,annotator2_task_a,annotator2_task_b,task_a_agreement,task_b_agreement
+136,2072549726155044,Routine / institutional / customer service / other,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+278,5017715378250821,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Operational update / resolution,False,False
+282,5285097564847180,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+291,747027417452355,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+293,688777051609959,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+306,381611608530381,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+308,1033537430056284,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+309,1765027263650346,Flood / stormwater / wastewater / sewer,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Alert / warning,True,False
+313,2682377658505578,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+317,866832130007101,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+319,587343996754032,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Institutional promotion / community news,False,False
+323,1287137021362989,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+329,868329303190717,Public education / heritage / community engagement,Institutional promotion / community news,Public education / heritage / community engagement,Instruction / advice to public,True,False
+330,531023052540631,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+332,665743023479669,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+333,760609563962692,Routine / institutional / customer service / other,Other / unclear,Routine / institutional / customer service / other,Education / awareness,True,False
+334,654006814676016,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+336,10156231946279268,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+337,2639522149404748,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+338,774020268095469,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+339,815860270569069,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+340,1974735632679507,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+341,4480156468674631,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+343,1166500583373586,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+347,837688252951811,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+351,1030315787456082,Flood / stormwater / wastewater / sewer,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+352,518244807006351,Routine / institutional / customer service / other,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+353,3500630873346915,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Instruction / advice to public,True,False
+354,685080960329604,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+355,818617961495185,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+356,305808883240113,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+357,379474605443604,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+359,2884003591676316,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+360,1574861954642486,Water conservation / drought / demand management,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+361,592012772962887,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+363,596692793745764,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+368,319921974741617,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+369,1160393634448296,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+371,5906271292729801,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+373,674648175892165,Public education / heritage / community engagement,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,True,False
+374,10155379502611714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+376,978860867575934,Water conservation / drought / demand management,Instruction / advice to public,Water conservation / drought / demand management,Institutional promotion / community news,True,False
+378,987630648043440,Public education / heritage / community engagement,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,False,False
+383,10155379503401714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+384,760134667343515,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+386,605009481644311,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+390,10157764148304268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+391,5434535793267011,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+396,225034692962016,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+402,1356032144549862,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+403,1100229430053750,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+407,2470231973290177,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Alert / warning,False,False
+409,1653317808154626,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+410,6120160751340853,Public education / heritage / community engagement,Education / awareness,Routine / institutional / customer service / other,Education / awareness,False,True
+411,1606291092727864,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+413,669094486500582,Routine / institutional / customer service / other,Instruction / advice to public,Water conservation / drought / demand management,Instruction / advice to public,False,True
+414,757262411428089,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+419,1469676736419623,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+421,5457806300909638,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+424,326670654023254,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+425,655816359922731,Water conservation / drought / demand management,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+429,986220088197738,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+430,5961284903895106,Water conservation / drought / demand management,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+431,1237656378398520,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+432,628355347304307,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+435,282834428406877,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+436,417636311709546,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+438,4565075156849428,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Reassurance / safety information,False,False
+439,2528516407171990,Environmental sustainability / waste / recycling / biodiversity,Reassurance / safety information,Water quality / safety / public health,Reassurance / safety information,False,True
+440,4721746344515641,Routine / institutional / customer service / other,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Alert / warning,False,False
+442,2588220021254676,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+443,1350225270442947,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+444,4315145178509095,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Operational update / resolution,True,False
+452,2315807095162638,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+453,4182502995106648,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+454,667260066684024,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,False,False
+456,1460248434051846,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+458,10155379339911714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+461,10158968794081714,Water conservation / drought / demand management,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+463,1407400992616876,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+464,3103098266380465,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+465,1143877719433221,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+466,1573959322680756,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+467,1076432921332972,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+468,10152978854331714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+469,1096279413858471,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+471,794669796021450,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+474,1347264248746743,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+478,2629206137133338,Service disruption / repair / infrastructure,Operational update / resolution,Water quality / safety / public health,Instruction / advice to public,False,False
+479,340978265925826,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+480,750377117117385,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+481,653491244674525,Routine / institutional / customer service / other,Other / unclear,Routine / institutional / customer service / other,Institutional promotion / community news,True,False
+487,669491490205182,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+489,670236521952616,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+492,1659964967413524,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+494,3563016193775049,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+497,747029164118847,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+498,1335287849957625,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,False,False
+499,969273196482708,Public education / heritage / community engagement,Institutional promotion / community news,Routine / institutional / customer service / other,Institutional promotion / community news,False,True
+500,2587258034631160,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+501,311929025497417,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+503,850015738408455,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,False
+504,1712419425501411,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+505,840212414774114,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+507,1205967618198590,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Education / awareness,False,False
+508,2084154571897921,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+511,601013733255610,Public education / heritage / community engagement,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+512,3313376578716287,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Alert / warning,True,False
+516,2066757916734225,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+517,788439523320210,Water quality / safety / public health,Operational update / resolution,Water quality / safety / public health,Instruction / advice to public,True,False
+518,903938990032843,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+521,4041244725897896,Routine / institutional / customer service / other,Alert / warning,Routine / institutional / customer service / other,Institutional promotion / community news,True,False
+522,4748963515180305,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+524,1149029685250110,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+528,2697163200597052,Routine / institutional / customer service / other,Instruction / advice to public,Water conservation / drought / demand management,Instruction / advice to public,False,True
+533,734050839951898,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+535,1706145362871870,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+539,10159192846894268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+540,1193759497443795,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+543,1311090085697493,Flood / stormwater / wastewater / sewer,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+544,2387581081318572,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+547,1145824289177644,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+549,893925712771590,Flood / stormwater / wastewater / sewer,Education / awareness,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+555,869119421674778,Service disruption / repair / infrastructure,Alert / warning,Flood / stormwater / wastewater / sewer,Alert / warning,False,True
+561,2956766764346950,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Institutional promotion / community news,False,False
+562,1239785894816762,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+564,5203702446350348,Water conservation / drought / demand management,Reassurance / safety information,Routine / institutional / customer service / other,Reassurance / safety information,False,True
+566,935980346425612,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+567,2730946287218743,Flood / stormwater / wastewater / sewer,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+568,749063291900178,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,False
+569,387619011264720,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+570,726648270692155,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Institutional promotion / community news,False,False
+571,971428401689531,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+572,1270961045213491,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+576,853443328065696,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Alert / warning,False,False
+579,3176995725657385,Water conservation / drought / demand management,Instruction / advice to public,Water quality / safety / public health,Instruction / advice to public,False,True
+580,2082901108453239,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+582,939062761572313,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+584,3503886739687995,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+586,5302091029867548,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+587,1176488856172107,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Alert / warning,True,False
+589,1230154712237912,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+592,1734983866555574,Service disruption / repair / infrastructure,Alert / warning,Flood / stormwater / wastewater / sewer,Alert / warning,False,True
+593,4420845724605706,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+596,3365930343460910,Flood / stormwater / wastewater / sewer,Instruction / advice to public,Routine / institutional / customer service / other,Education / awareness,False,False
+597,1072464479907879,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+599,697687600718904,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+600,1029446404209687,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+601,1553680074771825,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+602,3813008162056135,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,False,False
+603,827561503934164,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,False,False
+604,1743426745680964,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+606,441820772624433,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+608,1866045683419069,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+609,2010206479056036,Routine / institutional / customer service / other,Instruction / advice to public,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,True
+612,1042929017839242,Public education / heritage / community engagement,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+613,1277733397725695,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,False
+615,1110953994366620,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+619,2496853687035251,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+620,909008296192579,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+623,1022617994428513,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+624,657388571067651,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+625,1473215211473828,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+626,257197367649860,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+630,5402658493091086,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Alert / warning,False,False
+634,5070124146344524,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+637,10157041137451714,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+639,5840140602676204,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+641,969055691918429,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+643,1291696322975620,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+644,4023376564351379,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Operational update / resolution,True,False
+645,3824289390981060,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+646,10156555331446714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+647,1412477825442526,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+648,988562444500735,Public education / heritage / community engagement,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,True,False
+651,2619105694832775,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Service disruption / repair / infrastructure,Instruction / advice to public,False,True
+652,2455103904802984,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+653,980747955335232,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+654,1082861815534812,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+655,236613519695635,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+657,227414277282226,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+659,1100283587125968,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+662,1526928027794853,Service disruption / repair / infrastructure,Operational update / resolution,Routine / institutional / customer service / other,Education / awareness,False,False
+663,10155886684491714,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+664,1528649693825338,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+670,10154192765626714,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Instruction / advice to public,True,False
+671,1197759310711728,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+672,2836526976423978,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Education / awareness,False,False
+675,465502257270774,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+676,904136129640356,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Instruction / advice to public,True,False
+677,783392398351075,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,False,False
+679,2231076627205714,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,True,False
+680,2560737150615335,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+683,999469650540696,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+685,1546868742056481,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+686,997728954048099,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+700,1325004711320520,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+701,590694817737027,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+702,936859503004363,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,True,False
+704,903100595187435,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+705,1182773153886843,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+706,1033277840029195,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+707,1084652562022404,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+708,1068783676531659,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+709,859476179551421,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+711,5052818421408430,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,True,False
+712,376166972406955,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,False,False
+713,1370719813004709,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+715,916247468862915,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+716,1318265900305551,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Instruction / advice to public,True,False
+717,4260643934012268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+719,5187476364609301,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+721,4547531295323529,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+724,1044607939012377,Routine / institutional / customer service / other,Other / unclear,Routine / institutional / customer service / other,Education / awareness,True,False
+725,226129204140314,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+726,6412861222070803,Public education / heritage / community engagement,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,True,False
+728,5189525387737732,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+729,1304594225039612,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+730,10152918455841714,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+735,5007104915979781,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+736,122242521296089660,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+741,1022309258256735,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+743,434421051713,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,False
+744,249518688485321,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+745,10153056380001714,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+748,1973029772850093,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,False,False
+750,10157044704499268,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+752,3961084050581878,Routine / institutional / customer service / other,Other / unclear,Service disruption / repair / infrastructure,Alert / warning,False,False
+753,1069706039719708,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+757,2312864005403899,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+759,705960563224941,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+760,604215585075939,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+761,553021171852215,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+762,675612051262796,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+764,1383391509800549,Water quality / safety / public health,Other / unclear,Water quality / safety / public health,Education / awareness,True,False
+768,994659493891030,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+770,6190754107614850,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+771,10158100543034268,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+773,2510779975665348,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+774,10160919330114268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+776,323539377669715,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+778,924590319706673,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+779,896463259149029,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+781,1983547585131645,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+782,1085115194844212,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,True,False
+783,1400263863460023,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,True,False
+786,644100595666638,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+787,1695386610538026,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+794,4627612800595663,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+797,2570631773013501,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,True,False
+799,1027667947373043,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+802,2061645670815478,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+803,1517425655000790,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+804,677066031131097,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+805,10158039795296714,Routine / institutional / customer service / other,Instruction / advice to public,Water quality / safety / public health,Instruction / advice to public,False,True
+809,1001331937021134,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+817,1153617538459239,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+822,976806475676332,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+823,1064197302392191,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+824,518333485320984,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+825,2009820259094658,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+826,3311491102260894,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Education / awareness,False,False
+829,1799028166903680,Service disruption / repair / infrastructure,Operational update / resolution,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+831,10160300092269268,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+834,2215839701889189,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Operational update / resolution,True,False
+835,922109568276705,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+838,769242782051989,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+842,1464111426945832,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+844,2137211386302496,Water conservation / drought / demand management,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+846,982146291862065,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+847,847686739052322,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+848,1112521382104840,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+850,5769235519766713,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+852,1056584346651163,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+856,1940261256027833,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+859,707872768036724,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+863,2705368656443173,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+864,10154459035456714,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+866,5929641013726162,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+867,1032399463450366,Public education / heritage / community engagement,Education / awareness,Service disruption / repair / infrastructure,Institutional promotion / community news,False,False
+869,10156641885239268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+870,3787095931367073,Public education / heritage / community engagement,Education / awareness,Public education / heritage / community engagement,Instruction / advice to public,True,False
+874,3288001977890092,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,True,False
+875,658357474304094,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+876,970245869718774,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+877,476638702823796,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+878,1192934520859626,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+880,750955958725401,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+881,10158482616896714,Water conservation / drought / demand management,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+882,685017333669300,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+885,2457696204307059,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+886,899765945666338,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,False
+887,1629900563753298,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+888,1126509509494303,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+890,990121464808848,Service disruption / repair / infrastructure,Operational update / resolution,Water quality / safety / public health,Operational update / resolution,False,True
+893,2765635943490356,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+894,324798934210426,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+899,1050747233756103,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+900,1211428424354649,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+901,2155611811159442,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+902,838487726174875,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Education / awareness,False,False
+903,10159043301061714,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+908,3468484636508491,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+911,3508605592549443,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+915,643695082373856,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+917,2553090135004360,Flood / stormwater / wastewater / sewer,Education / awareness,Service disruption / repair / infrastructure,Alert / warning,False,False
+918,4016642788359337,Routine / institutional / customer service / other,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+919,788631911276649,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+922,1698048093552163,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+923,177545619028590,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+926,1069038658574722,Flood / stormwater / wastewater / sewer,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+927,649328757224459,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Instruction / advice to public,True,False
+928,627234017764263,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+929,5869007899789474,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,False,False
+933,555601154463535,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+934,663839467003358,Service disruption / repair / infrastructure,Alert / warning,Routine / institutional / customer service / other,Reassurance / safety information,False,False
+936,1788560584500913,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+937,962554629387469,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Reassurance / safety information,True,False
+939,2913840082026000,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Reassurance / safety information,False,False
+943,3923847701025228,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+944,5914625015227762,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+945,1719719464771407,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+946,1276644331311829,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+949,5359984150691854,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Operational update / resolution,True,False
+952,3987985984558351,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+953,561070340613605,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+954,761678772644047,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+955,1753353068151099,Service disruption / repair / infrastructure,Alert / warning,Routine / institutional / customer service / other,Institutional promotion / community news,False,False
+956,1192066507536708,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Alert / warning,True,False
+957,2719674941442516,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+960,794551453901836,Water conservation / drought / demand management,Instruction / advice to public,Service disruption / repair / infrastructure,Instruction / advice to public,False,True
+962,2267904933522883,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+967,763064659197900,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+968,1281649550665869,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Reassurance / safety information,False,False
+969,10157574958211714,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,False
+970,783742008780129,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+972,1117878248699835,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+976,10155249101091714,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+977,931601797327482,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+980,1344962786976755,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Instruction / advice to public,True,False
+981,3306084169415206,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+982,2337910776285603,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+983,1317304775012880,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+988,889340713236960,Routine / institutional / customer service / other,Other / unclear,Water conservation / drought / demand management,Reassurance / safety information,False,False
+990,1041863206301340,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+994,10160224409604268,Routine / institutional / customer service / other,Instruction / advice to public,Water conservation / drought / demand management,Instruction / advice to public,False,True
+995,969269786483049,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Operational update / resolution,True,False
+998,10159233909126714,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+999,663850267002278,Routine / institutional / customer service / other,Education / awareness,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+1002,819150087061258,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1003,983369323972666,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1005,1019520525202275,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1006,1371427335022967,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+1008,2258375280852772,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1012,10158045179319268,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1013,595180243955151,Service disruption / repair / infrastructure,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1017,2049236841896052,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1020,4737074156316193,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1021,957670574309637,Routine / institutional / customer service / other,Education / awareness,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+1022,2216338761852525,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1024,416449181761878,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1027,334632580357743,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Instruction / advice to public,False,False
+1028,2790315954325366,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+1029,1154559160041576,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1032,1293526706109347,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1034,1645768382113468,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+1038,10158815892056714,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+1043,1085192151557478,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1044,3523197037702670,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1047,2648451201898224,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,True,False
+1048,10159226792046714,Service disruption / repair / infrastructure,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1052,4253545031334530,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1056,4148170731926256,Water conservation / drought / demand management,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+1058,782015628952767,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1059,1070590700095257,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Operational update / resolution,False,False
+1064,3846946318715367,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Reassurance / safety information,True,False
+1065,3706605009363118,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,True,False
+1067,1141009893053337,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1072,1540555238073158,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1073,695689915921676,Water quality / safety / public health,Instruction / advice to public,Water conservation / drought / demand management,Instruction / advice to public,False,True
+1077,1002267423128990,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Alert / warning,True,False
+1078,1133234700497523,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1081,1381137298629627,Service disruption / repair / infrastructure,Institutional promotion / community news,Service disruption / repair / infrastructure,Alert / warning,True,False
+1083,680269402049757,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+1084,814985618989101,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1085,5161056167251321,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,True,False
+1087,3083261898417150,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1095,3105531389470486,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1096,2933271950028518,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1098,2913782632031745,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Instruction / advice to public,False,True
+1099,1344657535610937,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1100,4246199142070366,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1101,1342697312473626,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+1102,1473250404820210,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1111,4052007174875946,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1115,4947185712024750,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1117,1332757862223248,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1118,1921676137972215,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+1119,362217903801862,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1121,1719101861477108,Water conservation / drought / demand management,Operational update / resolution,Water conservation / drought / demand management,Education / awareness,True,False
+1122,1110305962790397,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1125,3705236209553046,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1126,731758363544801,Water conservation / drought / demand management,Instruction / advice to public,Water conservation / drought / demand management,Education / awareness,True,False
+1128,949917462162582,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1129,3038756129534394,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1130,789220681101580,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1131,672125698291797,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1135,10157809488334268,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1142,671123949694113,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+1143,1573207742733188,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1144,3586104921413128,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,True,False
+1146,1066329002179021,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1147,376742682349384,Water quality / safety / public health,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1150,3582478368442450,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1153,681323637365133,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1155,122144019686089660,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Alert / warning,True,False
+1156,1923905941082568,Public education / heritage / community engagement,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1158,10160236569889268,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+1159,4159444410798888,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1161,1979023518904143,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+1166,817425598745103,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1168,10157864232599268,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Reassurance / safety information,True,False
+1170,743802082774122,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1171,1941609109249107,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1172,1335955343094775,Water conservation / drought / demand management,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,True,False
+1176,10159426078271714,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,Routine / institutional / customer service / other,Institutional promotion / community news,False,False
+1177,683925131747328,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+1178,380723051951347,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,True,False
+1182,1665151060175200,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Institutional promotion / community news,True,False
+1184,974504722626222,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1186,2035387593204591,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+1189,1365244490218908,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Operational update / resolution,False,False
+1191,668792456477737,Routine / institutional / customer service / other,Other / unclear,Routine / institutional / customer service / other,Institutional promotion / community news,True,False
+1192,1369219444551089,Routine / institutional / customer service / other,Alert / warning,Routine / institutional / customer service / other,Institutional promotion / community news,True,False
+1194,2631779320232079,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Reassurance / safety information,False,False
+1195,10156060161331714,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+1196,215134458510208,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1197,1432373350172688,Water quality / safety / public health,Alert / warning,Water quality / safety / public health,Reassurance / safety information,True,False
+1199,968062856550694,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+1201,1330081283682181,Public education / heritage / community engagement,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+1204,2589562827787062,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1206,1481151641908477,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1208,342602789096707,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1209,5999935266696736,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Education / awareness,False,False
+1210,1228968171909551,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+1215,1357032026425481,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+1216,798270773993919,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Alert / warning,False,False
+1217,10156060877596714,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1218,2424193117657368,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Reassurance / safety information,False,False
+1220,1223305148096224,Service disruption / repair / infrastructure,Institutional promotion / community news,Routine / institutional / customer service / other,Institutional promotion / community news,False,True
+1221,10150888137301714,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,True,False
+1223,1031597702318818,Flood / stormwater / wastewater / sewer,Instruction / advice to public,Flood / stormwater / wastewater / sewer,Reassurance / safety information,True,False
+1225,10202943327240608,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1226,10159216619509268,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1230,10159981541074268,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1231,853950288015000,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1232,10159246793629268,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1236,260970657331765,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1237,5280575868632683,Public education / heritage / community engagement,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,True
+1243,837663531712237,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1244,3610466208976999,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1245,721692107884760,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1247,1115260540602632,Water quality / safety / public health,Institutional promotion / community news,Water quality / safety / public health,Alert / warning,True,False
+1248,586414436856054,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1250,486692085151791,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1251,5059728594049499,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1252,1027141730642806,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,False,False
+1253,938086005015398,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1254,952051461538215,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1256,2351798514896829,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1257,1541153719294650,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1258,10156813955059268,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1259,4161359227221025,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1269,243906117918994,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+1272,1583040675052906,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1274,5470902609630329,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1276,1222789401207471,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1278,2677259775920728,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Alert / warning,False,False
+1282,205746101557542,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Education / awareness,False,True
+1284,982532571770389,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1285,1518699882936377,Routine / institutional / customer service / other,Instruction / advice to public,Service disruption / repair / infrastructure,Instruction / advice to public,False,True
+1286,683833033089737,Water conservation / drought / demand management,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1292,603104276410211,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1293,1356935114330131,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1296,548314402322892,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1298,578611595612016,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+1300,999990383821956,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1302,1079292645480762,Routine / institutional / customer service / other,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1304,1338789786143417,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+1306,10158542118116714,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Instruction / advice to public,True,False
+1309,5201518799871724,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1310,10155827716504268,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+1311,2314250591931907,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1312,5009961429080511,Service disruption / repair / infrastructure,Instruction / advice to public,Routine / institutional / customer service / other,Instruction / advice to public,False,True
+1317,270874579602862,Service disruption / repair / infrastructure,Instruction / advice to public,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1320,980489684116736,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,True,False
+1328,2138385473141497,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1330,2064210553892323,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1332,1319332706862080,Routine / institutional / customer service / other,Education / awareness,Public education / heritage / community engagement,Education / awareness,False,True
+1337,1333651402132350,Public education / heritage / community engagement,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1338,1589356781141010,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1340,1621971527955921,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1341,3881750585234940,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+1344,4312079128815700,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1346,10160402524304268,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1351,668175335346630,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1352,1155140801640246,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1353,10158863584539268,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1355,10160859989469268,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Reassurance / safety information,True,False
+1363,4360983440591935,Water conservation / drought / demand management,Education / awareness,Water conservation / drought / demand management,Operational update / resolution,True,False
+1365,661308067279224,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,False,False
+1366,759859569656977,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+1370,5270154339705158,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Reassurance / safety information,True,False
+1374,2095868067103495,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1375,143068152493698,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+1382,1718509131635493,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1383,1138446632845648,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Instruction / advice to public,False,False
+1384,654644631278901,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,False,False
+1385,1180695863403449,Service disruption / repair / infrastructure,Operational update / resolution,Service disruption / repair / infrastructure,Reassurance / safety information,True,False
+1388,290390734317913,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1389,2525293867524566,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Education / awareness,False,False
+1392,1305475209605556,Routine / institutional / customer service / other,Education / awareness,Flood / stormwater / wastewater / sewer,Education / awareness,False,True
+1398,1471551299588226,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Operational update / resolution,True,False
+1399,937892188130834,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1400,966194440070869,Public education / heritage / community engagement,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+1405,2550755298281434,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1411,1449097821780526,Public education / heritage / community engagement,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1412,10153675246554268,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1413,1033756083778719,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Operational update / resolution,False,False
+1416,336716933018626,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1417,1117467345059769,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Education / awareness,True,False
+1418,10159695935094268,Public education / heritage / community engagement,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+1422,637069062983410,Water quality / safety / public health,Instruction / advice to public,Water quality / safety / public health,Institutional promotion / community news,True,False
+1423,642754854546279,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Institutional promotion / community news,False,True
+1425,1826289554190783,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Alert / warning,False,False
+1429,4440526709357322,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,True,False
+1430,1865371853539500,Public education / heritage / community engagement,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,False,True
+1432,1035143519972061,Public education / heritage / community engagement,Institutional promotion / community news,Public education / heritage / community engagement,Education / awareness,True,False
+1435,591711584185825,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Instruction / advice to public,False,False
+1436,2587893057954039,Routine / institutional / customer service / other,Institutional promotion / community news,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,False,False
+1437,1494372667717056,Service disruption / repair / infrastructure,Alert / warning,Routine / institutional / customer service / other,Operational update / resolution,False,False
+1439,4103734122982289,Routine / institutional / customer service / other,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1441,532549406799032,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True
+1443,4960033910686882,Routine / institutional / customer service / other,Institutional promotion / community news,Routine / institutional / customer service / other,Instruction / advice to public,True,False
+1445,918068227024005,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Instruction / advice to public,True,False
+1448,3889905961086069,Flood / stormwater / wastewater / sewer,Education / awareness,Flood / stormwater / wastewater / sewer,Instruction / advice to public,True,False
+1449,2095832857236450,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Education / awareness,False,False
+1450,10159029150666714,Public education / heritage / community engagement,Education / awareness,Routine / institutional / customer service / other,Institutional promotion / community news,False,False
+1451,511219389365727,Service disruption / repair / infrastructure,Alert / warning,Water quality / safety / public health,Alert / warning,False,True
+1452,4293537754003171,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1453,2043465439300168,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,False,False
+1454,2064238007222911,Routine / institutional / customer service / other,Institutional promotion / community news,Flood / stormwater / wastewater / sewer,Education / awareness,False,False
+1455,5052747151415557,Routine / institutional / customer service / other,Instruction / advice to public,Public education / heritage / community engagement,Instruction / advice to public,False,True
+1459,3129527940404164,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Institutional promotion / community news,True,False
+1462,693956389426125,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Instruction / advice to public,False,False
+1467,341716842518635,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1468,5952492878107642,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1470,1253367803495588,Water quality / safety / public health,Education / awareness,Water quality / safety / public health,Reassurance / safety information,True,False
+1471,2351912011497851,Public education / heritage / community engagement,Education / awareness,Water quality / safety / public health,Education / awareness,False,True
+1473,270350626321924,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Operational update / resolution,True,False
+1476,1608892222520799,Environmental sustainability / waste / recycling / biodiversity,Education / awareness,Environmental sustainability / waste / recycling / biodiversity,Instruction / advice to public,True,False
+1478,1602221016597639,Service disruption / repair / infrastructure,Alert / warning,Service disruption / repair / infrastructure,Institutional promotion / community news,True,False
+1482,740403672649948,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1484,3962872137069736,Routine / institutional / customer service / other,Institutional promotion / community news,Water quality / safety / public health,Institutional promotion / community news,False,True
+1485,2309900489033584,Public education / heritage / community engagement,Education / awareness,Water conservation / drought / demand management,Education / awareness,False,True
+1486,1530687463674609,Routine / institutional / customer service / other,Institutional promotion / community news,Public education / heritage / community engagement,Institutional promotion / community news,False,True
+1488,10155271477721714,Routine / institutional / customer service / other,Instruction / advice to public,Water quality / safety / public health,Instruction / advice to public,False,True
+1490,897609775881955,Routine / institutional / customer service / other,Institutional promotion / community news,Service disruption / repair / infrastructure,Institutional promotion / community news,False,True
+1492,760230770697560,Routine / institutional / customer service / other,Education / awareness,Service disruption / repair / infrastructure,Instruction / advice to public,False,False
+1495,976537310932988,Public education / heritage / community engagement,Education / awareness,Public education / heritage / community engagement,Institutional promotion / community news,True,False
+1496,1122174317806213,Routine / institutional / customer service / other,Other / unclear,Public education / heritage / community engagement,Institutional promotion / community news,False,False
+1500,1073931439426602,Routine / institutional / customer service / other,Institutional promotion / community news,Water conservation / drought / demand management,Institutional promotion / community news,False,True

@@ -1,0 +1,86 @@
+{
+  "task_a": {
+    "name": "Main water-utility topic",
+    "labels": [
+      {
+        "id": "A1",
+        "name": "Water quality / safety / public health"
+      },
+      {
+        "id": "A2",
+        "name": "Service disruption / repair / infrastructure"
+      },
+      {
+        "id": "A3",
+        "name": "Water conservation / drought / demand management"
+      },
+      {
+        "id": "A4",
+        "name": "Flood / stormwater / wastewater / sewer"
+      },
+      {
+        "id": "A5",
+        "name": "Environmental sustainability / waste / recycling / biodiversity"
+      },
+      {
+        "id": "A6",
+        "name": "Public education / heritage / community engagement"
+      },
+      {
+        "id": "A7",
+        "name": "Routine / institutional / customer service / other"
+      }
+    ]
+  },
+  "task_b": {
+    "name": "Primary communicative function",
+    "labels": [
+      {
+        "id": "B1",
+        "name": "Alert / warning"
+      },
+      {
+        "id": "B2",
+        "name": "Instruction / advice to public"
+      },
+      {
+        "id": "B3",
+        "name": "Operational update / resolution"
+      },
+      {
+        "id": "B4",
+        "name": "Reassurance / safety information"
+      },
+      {
+        "id": "B5",
+        "name": "Education / awareness"
+      },
+      {
+        "id": "B6",
+        "name": "Institutional promotion / community news"
+      },
+      {
+        "id": "B7",
+        "name": "Other / unclear"
+      }
+    ]
+  },
+  "task_b1": {
+    "name": "Grouped communicative function",
+    "labels": [
+      "Risk / incident communication",
+      "Education / awareness",
+      "Institutional / community communication",
+      "Other / unclear"
+    ],
+    "derived_from_task_b": {
+      "Alert / warning": "Risk / incident communication",
+      "Instruction / advice to public": "Risk / incident communication",
+      "Operational update / resolution": "Risk / incident communication",
+      "Reassurance / safety information": "Risk / incident communication",
+      "Education / awareness": "Education / awareness",
+      "Institutional promotion / community news": "Institutional / community communication",
+      "Other / unclear": "Other / unclear"
+    }
+  }
+}

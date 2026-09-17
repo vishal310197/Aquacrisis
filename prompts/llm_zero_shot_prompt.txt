@@ -1,0 +1,9 @@
+SYSTEM:
+See llm_system_prompt.txt
+
+USER TEMPLATE:
+Classify this post:
+{POST_TEXT}
+
+Expected output: one JSON object following the exact schema in
+llm_system_prompt.txt.

@@ -1,0 +1,13 @@
+SYSTEM:
+See llm_system_prompt.txt
+
+FEW-SHOT DEMONSTRATIONS:
+See fixed_five_shot_examples.json. The five examples are inserted in the
+stored order, each as a user example followed by its JSON assistant output.
+
+FINAL USER TEMPLATE:
+Now classify this new post:
+{POST_TEXT}
+
+Expected output: one JSON object following the exact schema in
+llm_system_prompt.txt.

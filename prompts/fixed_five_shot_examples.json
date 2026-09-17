@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Due to possible bacterial contamination, residents in the affected area must boil tap water before drinking or cooking until further notice.",
+    "output": {
+      "task_a": {
+        "label_id": "A1",
+        "label_name": "Water quality / safety / public health"
+      },
+      "task_b": {
+        "label_id": "B2",
+        "label_name": "Instruction / advice to public"
+      },
+      "confidence": 0.98
+    }
+  },
+  {
+    "text": "Repair crews are working on a burst water pipe. Water pressure is low, and service is expected to return this evening.",
+    "output": {
+      "task_a": {
+        "label_id": "A2",
+        "label_name": "Service disruption / repair / infrastructure"
+      },
+      "task_b": {
+        "label_id": "B3",
+        "label_name": "Operational update / resolution"
+      },
+      "confidence": 0.96
+    }
+  },
+  {
+    "text": "During the dry and hot period, please save water by avoiding garden watering during the day and using water wisely.",
+    "output": {
+      "task_a": {
+        "label_id": "A3",
+        "label_name": "Water conservation / drought / demand management"
+      },
+      "task_b": {
+        "label_id": "B2",
+        "label_name": "Instruction / advice to public"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "Heavy rain may overload drains and cause sewer overflow in low-lying areas. Avoid flooded streets and follow local warnings.",
+    "output": {
+      "task_a": {
+        "label_id": "A4",
+        "label_name": "Flood / stormwater / wastewater / sewer"
+      },
+      "task_b": {
+        "label_id": "B1",
+        "label_name": "Alert / warning"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "Learn why correct waste sorting and recycling protect rivers, wildlife, and local biodiversity.",
+    "output": {
+      "task_a": {
+        "label_id": "A5",
+        "label_name": "Environmental sustainability / waste / recycling / biodiversity"
+      },
+      "task_b": {
+        "label_id": "B5",
+        "label_name": "Education / awareness"
+      },
+      "confidence": 0.94
+    }
+  }
+]

@@ -1,0 +1,25 @@
+model,text,task,zero_experiment,five_experiment,delta_five_minus_zero,ci_low,ci_high,ci_excludes_zero,n_boot,seed
+Gemma 4,native,Task A,gemma4_zero_native,gemma4_five_native,-0.06691266121730755,-0.09437883502754899,-0.040839980833654865,True,10000,42
+Gemma 4,native,Task B,gemma4_zero_native,gemma4_five_native,-0.05411953439029821,-0.08522543142326916,-0.02591304626146796,True,10000,42
+Gemma 4,native,Task B.1,gemma4_zero_native,gemma4_five_native,-0.05431363673378642,-0.08781719743039121,-0.019203774632824612,True,10000,42
+Gemma 4,translated,Task A,gemma4_zero_translated,gemma4_five_translated,-0.03411718274470854,-0.055468094213239456,-0.013381009904968003,True,10000,42
+Gemma 4,translated,Task B,gemma4_zero_translated,gemma4_five_translated,-0.021677356024118744,-0.05614530587689233,0.014228996285857616,False,10000,42
+Gemma 4,translated,Task B.1,gemma4_zero_translated,gemma4_five_translated,-0.010391685748033619,-0.058689190919488154,0.039565396984034586,False,10000,42
+GPT-4.1-mini,native,Task A,gpt41mini_zero_native,gpt41mini_five_native,-0.01990667871830598,-0.040702546229168746,-7.721412050981407e-05,True,10000,42
+GPT-4.1-mini,native,Task B,gpt41mini_zero_native,gpt41mini_five_native,-0.012486007250402331,-0.03237830538002308,0.007229976909862468,False,10000,42
+GPT-4.1-mini,native,Task B.1,gpt41mini_zero_native,gpt41mini_five_native,-0.027743765294242495,-0.04619155836107094,-0.009986900289579168,True,10000,42
+GPT-4.1-mini,translated,Task A,gpt41mini_zero_translated,gpt41mini_five_translated,-0.021462738295150663,-0.042886488557937516,-0.001283450337528673,True,10000,42
+GPT-4.1-mini,translated,Task B,gpt41mini_zero_translated,gpt41mini_five_translated,-0.034739581513893725,-0.05605101369784766,-0.014220755943607666,True,10000,42
+GPT-4.1-mini,translated,Task B.1,gpt41mini_zero_translated,gpt41mini_five_translated,-0.028177890041455878,-0.04791548913644914,-0.008489020106111899,True,10000,42
+GPT-4o-mini,native,Task A,gpt4o_mini_zero_native,gpt4o_mini_five_native,0.004869193306535902,-0.01593678312274569,0.024848906472210375,False,10000,42
+GPT-4o-mini,native,Task B,gpt4o_mini_zero_native,gpt4o_mini_five_native,-0.011660641755763645,-0.0537250819116419,0.030782752803713277,False,10000,42
+GPT-4o-mini,native,Task B.1,gpt4o_mini_zero_native,gpt4o_mini_five_native,0.02713244741515264,-0.021260945368087567,0.083795578250337,False,10000,42
+GPT-4o-mini,translated,Task A,gpt4o_mini_zero_translated,gpt4o_mini_five_translated,0.0038150483861162376,-0.018913253492533175,0.026218017818133692,False,10000,42
+GPT-4o-mini,translated,Task B,gpt4o_mini_zero_translated,gpt4o_mini_five_translated,-0.011171552001482399,-0.05848295159294099,0.03632677939589776,False,10000,42
+GPT-4o-mini,translated,Task B.1,gpt4o_mini_zero_translated,gpt4o_mini_five_translated,0.014455497707655751,-0.044522653397094755,0.07391144922977108,False,10000,42
+Qwen 3.5,native,Task A,qwen35_zero_native,qwen35_five_native,0.014602929469852644,-0.0041903868075105185,0.03435840747479648,False,10000,42
+Qwen 3.5,native,Task B,qwen35_zero_native,qwen35_five_native,-0.035461054830883854,-0.06046111815740986,-0.006754307583969386,True,10000,42
+Qwen 3.5,native,Task B.1,qwen35_zero_native,qwen35_five_native,-0.031212958147643022,-0.055545426379456184,-0.006521257960627603,True,10000,42
+Qwen 3.5,translated,Task A,qwen35_zero_translated,qwen35_five_translated,0.016683659913763083,-0.004319073400126445,0.03924169123700165,False,10000,42
+Qwen 3.5,translated,Task B,qwen35_zero_translated,qwen35_five_translated,-0.008074551964724397,-0.03007252933026408,0.013786313605882112,False,10000,42
+Qwen 3.5,translated,Task B.1,qwen35_zero_translated,qwen35_five_translated,-0.030716147957228657,-0.05832611240685008,-0.0025047669476342964,True,10000,42

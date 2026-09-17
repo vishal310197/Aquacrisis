@@ -1,0 +1,19 @@
+system_id,system_type,model_key,model,text,setting,task,task_display,macro_f1,ci95_low,ci95_high
+baseline|keyword_rules|translated,baseline,keyword_rules,Keyword rules,translated,rule-based,task_a,Task A,0.5624412967499822,0.5393212080001831,0.5852377757430076
+baseline|majority|all,baseline,majority,Majority,all,5-fold OOF,task_a,Task A,0.0686061658706035,0.0686061605811119,0.0686061605811119
+baseline|multilingual_embeddings|native,baseline,multilingual_embeddings,Multilingual embeddings + LR,native,5-fold OOF,task_a,Task A,0.6492462488324461,0.6253916755318641,0.6722875729203224
+baseline|multilingual_embeddings|translated,baseline,multilingual_embeddings,Multilingual embeddings + LR,translated,5-fold OOF,task_a,Task A,0.6567203035987922,0.6332595348358154,0.6799675017595291
+baseline|tfidf_logreg|native,baseline,tfidf_logreg,TF-IDF + LR,native,5-fold OOF,task_a,Task A,0.5211245892548514,0.4966082535684109,0.5460417434573174
+baseline|tfidf_logreg|translated,baseline,tfidf_logreg,TF-IDF + LR,translated,5-fold OOF,task_a,Task A,0.6707296725372732,0.6456794381141663,0.6952047273516655
+baseline|keyword_rules|translated,baseline,keyword_rules,Keyword rules,translated,rule-based,task_b,Task B,0.3093047029903514,0.2858048774302005,0.3346133880317211
+baseline|majority|all,baseline,majority,Majority,all,5-fold OOF,task_b,Task B,0.0852599224909795,0.0852599218487739,0.0852599218487739
+baseline|multilingual_embeddings|native,baseline,multilingual_embeddings,Multilingual embeddings + LR,native,5-fold OOF,task_b,Task B,0.4952518574804352,0.4619930818676948,0.5293676272034645
+baseline|multilingual_embeddings|translated,baseline,multilingual_embeddings,Multilingual embeddings + LR,translated,5-fold OOF,task_b,Task B,0.5038088513041642,0.4683604024350643,0.5401148512959479
+baseline|tfidf_logreg|native,baseline,tfidf_logreg,TF-IDF + LR,native,5-fold OOF,task_b,Task B,0.3942554254961753,0.3705119907855987,0.4206325829029083
+baseline|tfidf_logreg|translated,baseline,tfidf_logreg,TF-IDF + LR,translated,5-fold OOF,task_b,Task B,0.4745431655995178,0.429676204174757,0.5234024450182915
+baseline|keyword_rules|translated,baseline,keyword_rules,Keyword rules,translated,rule-based,task_b_grouped,Task B.1,0.3557782768626183,0.3360774278640747,0.3751422330737114
+baseline|majority|all,baseline,majority,Majority,all,5-fold OOF,task_b_grouped,Task B.1,0.1492048643592142,0.1492048650979995,0.1492048650979995
+baseline|multilingual_embeddings|native,baseline,multilingual_embeddings,Multilingual embeddings + LR,native,5-fold OOF,task_b_grouped,Task B.1,0.5748476814303047,0.5335515528917313,0.6160853043198585
+baseline|multilingual_embeddings|translated,baseline,multilingual_embeddings,Multilingual embeddings + LR,translated,5-fold OOF,task_b_grouped,Task B.1,0.5923142214645931,0.5557092413306236,0.6313332602381706
+baseline|tfidf_logreg|native,baseline,tfidf_logreg,TF-IDF + LR,native,5-fold OOF,task_b_grouped,Task B.1,0.4751518192706492,0.4570706717669964,0.4930807843804359
+baseline|tfidf_logreg|translated,baseline,tfidf_logreg,TF-IDF + LR,translated,5-fold OOF,task_b_grouped,Task B.1,0.5482410332589983,0.5319701805710793,0.5648032799363136

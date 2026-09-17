@@ -19,11 +19,9 @@ standard and evaluates native-language and English-translated representations.
 - `predictions/` — exact sanitized LLM predictions used for Table 3
 - `results/` — bootstrap, overall, classwise, and per-language outputs
 - `prompts/` — exact translation/classification prompt materials
-- `guidelines/` — annotation and sampling documentation
 - `code/` — translation, classification, run, and Figure 2 scripts
 - `notebooks/` — baseline, bootstrap, sampling, preprocessing, supplementary analyses
 - `figures/` — Figure 2 outputs
-- `docs/` — reproducibility, data statement, audit, and source mapping
 
 ## Exact camera-ready prediction set
 

@@ -1,0 +1,289 @@
+experiment,model,text,shot,task,class_label,support,precision,recall,f1
+gemma4_five_native,Gemma 4,native,five,Task A,Water quality / safety / public health,65,0.5454545454545454,0.36923076923076925,0.4403669724770642
+gemma4_five_native,Gemma 4,native,five,Task A,Service disruption / repair / infrastructure,226,0.8454935622317596,0.8716814159292036,0.85838779956427
+gemma4_five_native,Gemma 4,native,five,Task A,Water conservation / drought / demand management,140,0.7864077669902912,0.5785714285714286,0.6666666666666667
+gemma4_five_native,Gemma 4,native,five,Task A,Flood / stormwater / wastewater / sewer,136,0.75,0.2647058823529412,0.39130434782608703
+gemma4_five_native,Gemma 4,native,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5165289256198347,0.5980861244019139,0.5543237250554323
+gemma4_five_native,Gemma 4,native,five,Task A,Public education / heritage / community engagement,250,0.4978902953586498,0.472,0.48459958932238195
+gemma4_five_native,Gemma 4,native,five,Task A,Routine / institutional / customer service / other,474,0.7331081081081081,0.4578059071729958,0.5636363636363636
+gemma4_five_native,Gemma 4,native,five,Task B,Alert / warning,205,0.6666666666666666,0.00975609756097561,0.019230769230769232
+gemma4_five_native,Gemma 4,native,five,Task B,Instruction / advice to public,164,0.5360824742268041,0.3170731707317073,0.3984674329501916
+gemma4_five_native,Gemma 4,native,five,Task B,Operational update / resolution,21,0.0593607305936073,0.6190476190476191,0.10833333333333334
+gemma4_five_native,Gemma 4,native,five,Task B,Reassurance / safety information,11,0.21428571428571427,0.2727272727272727,0.23999999999999996
+gemma4_five_native,Gemma 4,native,five,Task B,Education / awareness,446,0.71900826446281,0.19506726457399104,0.30687830687830686
+gemma4_five_native,Gemma 4,native,five,Task B,Institutional promotion / community news,638,0.609308885754584,0.677115987460815,0.6414253897550112
+gemma4_five_native,Gemma 4,native,five,Task B,Other / unclear,15,0.225,0.6,0.3272727272727273
+gemma4_five_native,Gemma 4,native,five,Task B.1,Risk / incident communication,401,0.7867867867867868,0.6533665835411472,0.7138964577656675
+gemma4_five_native,Gemma 4,native,five,Task B.1,Education / awareness,446,0.71900826446281,0.19506726457399104,0.30687830687830686
+gemma4_five_native,Gemma 4,native,five,Task B.1,Institutional / community communication,638,0.609308885754584,0.677115987460815,0.6414253897550112
+gemma4_five_native,Gemma 4,native,five,Task B.1,Other / unclear,15,0.225,0.6,0.3272727272727273
+gemma4_five_translated,Gemma 4,translated,five,Task A,Water quality / safety / public health,65,0.546875,0.5384615384615384,0.5426356589147288
+gemma4_five_translated,Gemma 4,translated,five,Task A,Service disruption / repair / infrastructure,226,0.8617886178861789,0.9380530973451328,0.8983050847457628
+gemma4_five_translated,Gemma 4,translated,five,Task A,Water conservation / drought / demand management,140,0.7946428571428571,0.6357142857142857,0.7063492063492063
+gemma4_five_translated,Gemma 4,translated,five,Task A,Flood / stormwater / wastewater / sewer,136,0.7184466019417476,0.5441176470588235,0.6192468619246861
+gemma4_five_translated,Gemma 4,translated,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5034246575342466,0.7033492822966507,0.5868263473053893
+gemma4_five_translated,Gemma 4,translated,five,Task A,Public education / heritage / community engagement,250,0.490272373540856,0.504,0.4970414201183432
+gemma4_five_translated,Gemma 4,translated,five,Task A,Routine / institutional / customer service / other,474,0.7644628099173554,0.39029535864978904,0.5167597765363129
+gemma4_five_translated,Gemma 4,translated,five,Task B,Alert / warning,205,0.6666666666666666,0.01951219512195122,0.037914691943127965
+gemma4_five_translated,Gemma 4,translated,five,Task B,Instruction / advice to public,164,0.6352941176470588,0.32926829268292684,0.4337349397590361
+gemma4_five_translated,Gemma 4,translated,five,Task B,Operational update / resolution,21,0.05761316872427984,0.6666666666666666,0.10606060606060606
+gemma4_five_translated,Gemma 4,translated,five,Task B,Reassurance / safety information,11,0.1935483870967742,0.5454545454545454,0.2857142857142857
+gemma4_five_translated,Gemma 4,translated,five,Task B,Education / awareness,446,0.7046979865771812,0.23542600896860988,0.35294117647058826
+gemma4_five_translated,Gemma 4,translated,five,Task B,Institutional promotion / community news,638,0.5907335907335908,0.719435736677116,0.6487632508833924
+gemma4_five_translated,Gemma 4,translated,five,Task B,Other / unclear,15,0.36,0.6,0.45
+gemma4_five_translated,Gemma 4,translated,five,Task B.1,Risk / incident communication,401,0.7972602739726027,0.7256857855361596,0.7597911227154046
+gemma4_five_translated,Gemma 4,translated,five,Task B.1,Education / awareness,446,0.7046979865771812,0.23542600896860988,0.35294117647058826
+gemma4_five_translated,Gemma 4,translated,five,Task B.1,Institutional / community communication,638,0.5907335907335908,0.719435736677116,0.6487632508833924
+gemma4_five_translated,Gemma 4,translated,five,Task B.1,Other / unclear,15,0.36,0.6,0.45
+gemma4_zero_native,Gemma 4,native,zero,Task A,Water quality / safety / public health,65,0.5081967213114754,0.47692307692307695,0.4920634920634921
+gemma4_zero_native,Gemma 4,native,zero,Task A,Service disruption / repair / infrastructure,226,0.8724279835390947,0.9380530973451328,0.9040511727078892
+gemma4_zero_native,Gemma 4,native,zero,Task A,Water conservation / drought / demand management,140,0.7172413793103448,0.7428571428571429,0.7298245614035087
+gemma4_zero_native,Gemma 4,native,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.7570093457943925,0.5955882352941176,0.6666666666666667
+gemma4_zero_native,Gemma 4,native,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.4583333333333333,0.7894736842105263,0.5799648506151143
+gemma4_zero_native,Gemma 4,native,zero,Task A,Public education / heritage / community engagement,250,0.42896935933147634,0.616,0.5057471264367817
+gemma4_zero_native,Gemma 4,native,zero,Task A,Routine / institutional / customer service / other,474,0.8533333333333334,0.4050632911392405,0.5493562231759657
+gemma4_zero_native,Gemma 4,native,zero,Task B,Alert / warning,205,0.8333333333333334,0.04878048780487805,0.09216589861751152
+gemma4_zero_native,Gemma 4,native,zero,Task B,Instruction / advice to public,164,0.4925373134328358,0.6036585365853658,0.5424657534246575
+gemma4_zero_native,Gemma 4,native,zero,Task B,Operational update / resolution,21,0.06274509803921569,0.7619047619047619,0.11594202898550725
+gemma4_zero_native,Gemma 4,native,zero,Task B,Reassurance / safety information,11,0.15384615384615385,0.36363636363636365,0.21621621621621623
+gemma4_zero_native,Gemma 4,native,zero,Task B,Education / awareness,446,0.7321428571428571,0.36771300448430494,0.48955223880597015
+gemma4_zero_native,Gemma 4,native,zero,Task B,Institutional promotion / community news,638,0.6905089408528198,0.786833855799373,0.7355311355311355
+gemma4_zero_native,Gemma 4,native,zero,Task B,Other / unclear,15,0.14545454545454545,0.5333333333333333,0.2285714285714286
+gemma4_zero_native,Gemma 4,native,zero,Task B.1,Risk / incident communication,401,0.6821862348178138,0.8403990024937655,0.753072625698324
+gemma4_zero_native,Gemma 4,native,zero,Task B.1,Education / awareness,446,0.7321428571428571,0.36771300448430494,0.48955223880597015
+gemma4_zero_native,Gemma 4,native,zero,Task B.1,Institutional / community communication,638,0.6905089408528198,0.786833855799373,0.7355311355311355
+gemma4_zero_native,Gemma 4,native,zero,Task B.1,Other / unclear,15,0.14545454545454545,0.5333333333333333,0.2285714285714286
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Water quality / safety / public health,65,0.4810126582278481,0.5846153846153846,0.5277777777777778
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Service disruption / repair / infrastructure,226,0.9227467811158798,0.9513274336283186,0.9368191721132897
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Water conservation / drought / demand management,140,0.7379310344827587,0.7642857142857142,0.7508771929824561
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.7142857142857143,0.7352941176470589,0.7246376811594202
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.4693333333333333,0.8421052631578947,0.6027397260273972
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Public education / heritage / community engagement,250,0.4674922600619195,0.604,0.5270506108202443
+gemma4_zero_translated,Gemma 4,translated,zero,Task A,Routine / institutional / customer service / other,474,0.8878048780487805,0.38396624472573837,0.5360824742268042
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Alert / warning,205,0.9166666666666666,0.05365853658536585,0.10138248847926268
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Instruction / advice to public,164,0.5052083333333334,0.5914634146341463,0.5449438202247191
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Operational update / resolution,21,0.06967213114754098,0.8095238095238095,0.1283018867924528
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Reassurance / safety information,11,0.13793103448275862,0.36363636363636365,0.2
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Education / awareness,446,0.7391304347826086,0.3811659192825112,0.5029585798816568
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Institutional promotion / community news,638,0.6899736147757256,0.8197492163009404,0.7492836676217766
+gemma4_zero_translated,Gemma 4,translated,zero,Task B,Other / unclear,15,0.17142857142857143,0.4,0.24000000000000002
+gemma4_zero_translated,Gemma 4,translated,zero,Task B.1,Risk / incident communication,401,0.70020964360587,0.8329177057356608,0.7608200455580866
+gemma4_zero_translated,Gemma 4,translated,zero,Task B.1,Education / awareness,446,0.7391304347826086,0.3811659192825112,0.5029585798816568
+gemma4_zero_translated,Gemma 4,translated,zero,Task B.1,Institutional / community communication,638,0.6899736147757256,0.8197492163009404,0.7492836676217766
+gemma4_zero_translated,Gemma 4,translated,zero,Task B.1,Other / unclear,15,0.17142857142857143,0.4,0.24000000000000002
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Water quality / safety / public health,65,0.7083333333333334,0.26153846153846155,0.38202247191011235
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Service disruption / repair / infrastructure,226,0.8269230769230769,0.9513274336283186,0.8847736625514403
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Water conservation / drought / demand management,140,0.76,0.5428571428571428,0.6333333333333332
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Flood / stormwater / wastewater / sewer,136,0.8775510204081632,0.3161764705882353,0.46486486486486484
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.6325581395348837,0.6507177033492823,0.6415094339622641
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Public education / heritage / community engagement,250,0.397459165154265,0.876,0.5468164794007491
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task A,Routine / institutional / customer service / other,474,0.8006644518272426,0.5084388185654009,0.6219354838709678
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Alert / warning,205,0.9512195121951219,0.1902439024390244,0.3170731707317073
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Instruction / advice to public,164,0.4276315789473684,0.39634146341463417,0.4113924050632911
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Operational update / resolution,21,0.08904109589041095,0.6190476190476191,0.155688622754491
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Reassurance / safety information,11,0.2,0.36363636363636365,0.25806451612903225
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Education / awareness,446,0.813953488372093,0.15695067264573992,0.2631578947368421
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Institutional promotion / community news,638,0.5486338797814208,0.786833855799373,0.6464906632324533
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B,Other / unclear,15,0.08571428571428572,0.8,0.15483870967741936
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B.1,Risk / incident communication,401,0.8328690807799443,0.7456359102244389,0.7868421052631579
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B.1,Education / awareness,446,0.813953488372093,0.15695067264573992,0.2631578947368421
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B.1,Institutional / community communication,638,0.5486338797814208,0.786833855799373,0.6464906632324533
+gpt41mini_five_native,GPT-4.1-mini,native,five,Task B.1,Other / unclear,15,0.08571428571428572,0.8,0.15483870967741936
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Water quality / safety / public health,65,0.8181818181818182,0.27692307692307694,0.4137931034482759
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Service disruption / repair / infrastructure,226,0.8482490272373541,0.9646017699115044,0.9026915113871635
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Water conservation / drought / demand management,140,0.8421052631578947,0.5714285714285714,0.6808510638297872
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Flood / stormwater / wastewater / sewer,136,0.8679245283018868,0.3382352941176471,0.4867724867724868
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.6330275229357798,0.6602870813397129,0.6463700234192037
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Public education / heritage / community engagement,250,0.4076923076923077,0.848,0.5506493506493506
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task A,Routine / institutional / customer service / other,474,0.7701492537313432,0.5443037974683544,0.6378244746600742
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Alert / warning,205,0.9375,0.21951219512195122,0.3557312252964427
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Instruction / advice to public,164,0.4444444444444444,0.36585365853658536,0.4013377926421405
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Operational update / resolution,21,0.09285714285714286,0.6190476190476191,0.1614906832298137
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Reassurance / safety information,11,0.2222222222222222,0.36363636363636365,0.27586206896551724
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Education / awareness,446,0.8061224489795918,0.17713004484304934,0.2904411764705882
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Institutional promotion / community news,638,0.5535135135135135,0.8025078369905956,0.6551503518873961
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B,Other / unclear,15,0.07352941176470588,0.6666666666666666,0.13245033112582782
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B.1,Risk / incident communication,401,0.8533724340175953,0.7256857855361596,0.7843665768194069
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B.1,Education / awareness,446,0.8061224489795918,0.17713004484304934,0.2904411764705882
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B.1,Institutional / community communication,638,0.5535135135135135,0.8025078369905956,0.6551503518873961
+gpt41mini_five_translated,GPT-4.1-mini,translated,five,Task B.1,Other / unclear,15,0.07352941176470588,0.6666666666666666,0.13245033112582782
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Water quality / safety / public health,65,0.6764705882352942,0.35384615384615387,0.46464646464646464
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Service disruption / repair / infrastructure,226,0.8275862068965517,0.9557522123893806,0.8870636550308008
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Water conservation / drought / demand management,140,0.676056338028169,0.6857142857142857,0.6808510638297872
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.847457627118644,0.36764705882352944,0.5128205128205129
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5304054054054054,0.7511961722488039,0.6217821782178219
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Public education / heritage / community engagement,250,0.43707093821510296,0.764,0.5560407569141194
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task A,Routine / institutional / customer service / other,474,0.8148148148148148,0.4641350210970464,0.5913978494623655
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Alert / warning,205,0.9428571428571428,0.16097560975609757,0.275
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Instruction / advice to public,164,0.3627450980392157,0.45121951219512196,0.4021739130434782
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Operational update / resolution,21,0.09090909090909091,0.6190476190476191,0.15853658536585366
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Reassurance / safety information,11,0.21052631578947367,0.36363636363636365,0.26666666666666666
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Education / awareness,446,0.7610062893081762,0.2713004484304933,0.4
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Institutional promotion / community news,638,0.596401028277635,0.7272727272727273,0.6553672316384181
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B,Other / unclear,15,0.07453416149068323,0.8,0.13636363636363635
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B.1,Risk / incident communication,401,0.770573566084788,0.770573566084788,0.770573566084788
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B.1,Education / awareness,446,0.7610062893081762,0.2713004484304933,0.4
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B.1,Institutional / community communication,638,0.596401028277635,0.7272727272727273,0.6553672316384181
+gpt41mini_zero_native,GPT-4.1-mini,native,zero,Task B.1,Other / unclear,15,0.07453416149068323,0.8,0.13636363636363635
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Water quality / safety / public health,65,0.7666666666666667,0.35384615384615387,0.4842105263157895
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Service disruption / repair / infrastructure,226,0.8488372093023255,0.9690265486725663,0.9049586776859504
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Water conservation / drought / demand management,140,0.6802721088435374,0.7142857142857143,0.6968641114982578
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.8656716417910447,0.4264705882352941,0.5714285714285714
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5521885521885522,0.784688995215311,0.6482213438735178
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Public education / heritage / community engagement,250,0.4507042253521127,0.768,0.5680473372781064
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task A,Routine / institutional / customer service / other,474,0.8109090909090909,0.4704641350210971,0.595460614152203
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Alert / warning,205,0.9607843137254902,0.23902439024390243,0.3828125
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Instruction / advice to public,164,0.38,0.4634146341463415,0.4175824175824176
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Operational update / resolution,21,0.11627906976744186,0.7142857142857143,0.2
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Reassurance / safety information,11,0.2857142857142857,0.36363636363636365,0.32
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Education / awareness,446,0.7804878048780488,0.28699551569506726,0.41967213114754104
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Institutional promotion / community news,638,0.6041131105398457,0.7366771159874608,0.6638418079096046
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B,Other / unclear,15,0.06097560975609756,0.6666666666666666,0.111731843575419
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B.1,Risk / incident communication,401,0.7868020304568528,0.773067331670823,0.7798742138364779
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B.1,Education / awareness,446,0.7804878048780488,0.28699551569506726,0.41967213114754104
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B.1,Institutional / community communication,638,0.6041131105398457,0.7366771159874608,0.6638418079096046
+gpt41mini_zero_translated,GPT-4.1-mini,translated,zero,Task B.1,Other / unclear,15,0.06097560975609756,0.6666666666666666,0.111731843575419
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Water quality / safety / public health,65,0.6363636363636364,0.4307692307692308,0.5137614678899082
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Service disruption / repair / infrastructure,226,0.775,0.9601769911504425,0.857707509881423
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Water conservation / drought / demand management,140,0.6857142857142857,0.6857142857142857,0.6857142857142857
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Flood / stormwater / wastewater / sewer,136,0.803921568627451,0.3014705882352941,0.43850267379679136
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5477031802120141,0.7416267942583732,0.6300813008130081
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Public education / heritage / community engagement,250,0.40941176470588236,0.696,0.5155555555555555
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task A,Routine / institutional / customer service / other,474,0.8086642599277978,0.47257383966244726,0.596537949400799
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Alert / warning,205,0.3333333333333333,0.00975609756097561,0.018957345971563982
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Instruction / advice to public,164,0.6833333333333333,0.25,0.36607142857142855
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Operational update / resolution,21,0.056768558951965066,0.6190476190476191,0.104
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Reassurance / safety information,11,0.2727272727272727,0.2727272727272727,0.2727272727272727
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Education / awareness,446,0.68561872909699,0.45964125560538116,0.5503355704697986
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Institutional promotion / community news,638,0.6762342135476463,0.9231974921630094,0.780649436713055
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B,Other / unclear,15,0.4166666666666667,0.6666666666666666,0.5128205128205129
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B.1,Risk / incident communication,401,0.8725490196078431,0.6658354114713217,0.7553041018387553
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B.1,Education / awareness,446,0.68561872909699,0.45964125560538116,0.5503355704697986
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B.1,Institutional / community communication,638,0.6762342135476463,0.9231974921630094,0.780649436713055
+gpt4o_mini_five_native,GPT-4o-mini,native,five,Task B.1,Other / unclear,15,0.4166666666666667,0.6666666666666666,0.5128205128205129
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Water quality / safety / public health,65,0.65,0.4,0.49523809523809526
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Service disruption / repair / infrastructure,226,0.7727272727272727,0.9778761061946902,0.86328125
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Water conservation / drought / demand management,140,0.7218045112781954,0.6857142857142857,0.7032967032967034
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Flood / stormwater / wastewater / sewer,136,0.847457627118644,0.36764705882352944,0.5128205128205129
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.5477031802120141,0.7416267942583732,0.6300813008130081
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Public education / heritage / community engagement,250,0.43523316062176165,0.672,0.5283018867924528
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task A,Routine / institutional / customer service / other,474,0.7955271565495208,0.5253164556962026,0.6327827191867853
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Alert / warning,205,0.8571428571428571,0.02926829268292683,0.05660377358490566
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Instruction / advice to public,164,0.5735294117647058,0.23780487804878048,0.33620689655172414
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Operational update / resolution,21,0.06912442396313365,0.7142857142857143,0.12605042016806725
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Reassurance / safety information,11,0.25,0.2727272727272727,0.2608695652173913
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Education / awareness,446,0.7321428571428571,0.45964125560538116,0.5647382920110193
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Institutional promotion / community news,638,0.6725860155382908,0.9498432601880877,0.7875243664717348
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B,Other / unclear,15,0.5333333333333333,0.5333333333333333,0.5333333333333333
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B.1,Risk / incident communication,401,0.875,0.6633416458852868,0.7546099290780142
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B.1,Education / awareness,446,0.7321428571428571,0.45964125560538116,0.5647382920110193
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B.1,Institutional / community communication,638,0.6725860155382908,0.9498432601880877,0.7875243664717348
+gpt4o_mini_five_translated,GPT-4o-mini,translated,five,Task B.1,Other / unclear,15,0.5333333333333333,0.5333333333333333,0.5333333333333333
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Water quality / safety / public health,65,0.5901639344262295,0.5538461538461539,0.5714285714285714
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Service disruption / repair / infrastructure,226,0.7577854671280276,0.9690265486725663,0.8504854368932039
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Water conservation / drought / demand management,140,0.6363636363636364,0.75,0.6885245901639345
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.8032786885245902,0.3602941176470588,0.4974619289340101
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.4444444444444444,0.8803827751196173,0.5906902086677368
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Public education / heritage / community engagement,250,0.4536741214057508,0.568,0.5044404973357015
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task A,Routine / institutional / customer service / other,474,0.8527918781725888,0.35443037974683544,0.5007451564828613
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Alert / warning,205,0.6666666666666666,0.02926829268292683,0.056074766355140186
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Instruction / advice to public,164,0.4147465437788018,0.5487804878048781,0.47244094488188976
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Operational update / resolution,21,0.05741626794258373,0.5714285714285714,0.10434782608695653
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Reassurance / safety information,11,0.2631578947368421,0.45454545454545453,0.3333333333333333
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Education / awareness,446,0.661498708010336,0.5739910313901345,0.6146458583433373
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Institutional promotion / community news,638,0.7807153965785381,0.786833855799373,0.7837626854020296
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B,Other / unclear,15,0.3125,0.3333333333333333,0.3225806451612903
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B.1,Risk / incident communication,401,0.724669603524229,0.8204488778054863,0.7695906432748538
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B.1,Education / awareness,446,0.661498708010336,0.5739910313901345,0.6146458583433373
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B.1,Institutional / community communication,638,0.7807153965785381,0.786833855799373,0.7837626854020296
+gpt4o_mini_zero_native,GPT-4o-mini,native,zero,Task B.1,Other / unclear,15,0.3125,0.3333333333333333,0.3225806451612903
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Water quality / safety / public health,65,0.5614035087719298,0.49230769230769234,0.5245901639344263
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Service disruption / repair / infrastructure,226,0.8,0.9734513274336283,0.8782435129740519
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Water conservation / drought / demand management,140,0.66875,0.7642857142857142,0.7133333333333334
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.7816091954022989,0.5,0.609865470852018
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.4397163120567376,0.8899521531100478,0.5886075949367089
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Public education / heritage / community engagement,250,0.4652777777777778,0.536,0.4981412639405205
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task A,Routine / institutional / customer service / other,474,0.8571428571428571,0.379746835443038,0.5263157894736843
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Alert / warning,205,0.7058823529411765,0.05853658536585366,0.10810810810810811
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Instruction / advice to public,164,0.4416243654822335,0.5304878048780488,0.481994459833795
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Operational update / resolution,21,0.06862745098039216,0.6666666666666666,0.12444444444444447
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Reassurance / safety information,11,0.2,0.2727272727272727,0.23076923076923075
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Education / awareness,446,0.6707021791767555,0.6210762331838565,0.6449359720605355
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Institutional promotion / community news,638,0.7908805031446541,0.7884012539184952,0.7896389324960753
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B,Other / unclear,15,0.3333333333333333,0.4,0.3636363636363636
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B.1,Risk / incident communication,401,0.7551963048498845,0.8154613466334164,0.7841726618705036
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B.1,Education / awareness,446,0.6707021791767555,0.6210762331838565,0.6449359720605355
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B.1,Institutional / community communication,638,0.7908805031446541,0.7884012539184952,0.7896389324960753
+gpt4o_mini_zero_translated,GPT-4o-mini,translated,zero,Task B.1,Other / unclear,15,0.3333333333333333,0.4,0.3636363636363636
+qwen35_five_native,Qwen 3.5,native,five,Task A,Water quality / safety / public health,65,0.6470588235294118,0.3384615384615385,0.4444444444444445
+qwen35_five_native,Qwen 3.5,native,five,Task A,Service disruption / repair / infrastructure,226,0.8760330578512396,0.9380530973451328,0.9059829059829061
+qwen35_five_native,Qwen 3.5,native,five,Task A,Water conservation / drought / demand management,140,0.6640625,0.6071428571428571,0.6343283582089552
+qwen35_five_native,Qwen 3.5,native,five,Task A,Flood / stormwater / wastewater / sewer,136,0.8181818181818182,0.2647058823529412,0.39999999999999997
+qwen35_five_native,Qwen 3.5,native,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.46060606060606063,0.7272727272727273,0.5640074211502784
+qwen35_five_native,Qwen 3.5,native,five,Task A,Public education / heritage / community engagement,250,0.40049751243781095,0.644,0.4938650306748466
+qwen35_five_native,Qwen 3.5,native,five,Task A,Routine / institutional / customer service / other,474,0.7284768211920529,0.4641350210970464,0.5670103092783505
+qwen35_five_native,Qwen 3.5,native,five,Task B,Alert / warning,205,0.25,0.004878048780487805,0.009569377990430622
+qwen35_five_native,Qwen 3.5,native,five,Task B,Instruction / advice to public,164,0.5443037974683544,0.2621951219512195,0.35390946502057613
+qwen35_five_native,Qwen 3.5,native,five,Task B,Operational update / resolution,21,0.05555555555555555,0.6190476190476191,0.10196078431372547
+qwen35_five_native,Qwen 3.5,native,five,Task B,Reassurance / safety information,11,0.21052631578947367,0.36363636363636365,0.26666666666666666
+qwen35_five_native,Qwen 3.5,native,five,Task B,Education / awareness,446,0.7216494845360825,0.15695067264573992,0.2578268876611418
+qwen35_five_native,Qwen 3.5,native,five,Task B,Institutional promotion / community news,638,0.5435643564356436,0.8605015673981191,0.6662621359223301
+qwen35_five_native,Qwen 3.5,native,five,Task B,Other / unclear,15,0.02564102564102564,0.06666666666666667,0.037037037037037035
+qwen35_five_native,Qwen 3.5,native,five,Task B.1,Risk / incident communication,401,0.8333333333333334,0.6982543640897756,0.7598371777476255
+qwen35_five_native,Qwen 3.5,native,five,Task B.1,Education / awareness,446,0.7216494845360825,0.15695067264573992,0.2578268876611418
+qwen35_five_native,Qwen 3.5,native,five,Task B.1,Institutional / community communication,638,0.5435643564356436,0.8605015673981191,0.6662621359223301
+qwen35_five_native,Qwen 3.5,native,five,Task B.1,Other / unclear,15,0.02564102564102564,0.06666666666666667,0.037037037037037035
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Water quality / safety / public health,65,0.6333333333333333,0.2923076923076923,0.39999999999999997
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Service disruption / repair / infrastructure,226,0.8879668049792531,0.9469026548672567,0.9164882226980728
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Water conservation / drought / demand management,140,0.6953125,0.6357142857142857,0.6641791044776119
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Flood / stormwater / wastewater / sewer,136,0.7735849056603774,0.3014705882352941,0.43386243386243384
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.45871559633027525,0.7177033492822966,0.5597014925373135
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Public education / heritage / community engagement,250,0.432,0.648,0.5184
+qwen35_five_translated,Qwen 3.5,translated,five,Task A,Routine / institutional / customer service / other,474,0.7063953488372093,0.5126582278481012,0.5941320293398533
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Alert / warning,205,0.88,0.1073170731707317,0.19130434782608696
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Instruction / advice to public,164,0.6216216216216216,0.2804878048780488,0.3865546218487395
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Operational update / resolution,21,0.06220095693779904,0.6190476190476191,0.11304347826086956
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Reassurance / safety information,11,0.16666666666666666,0.2727272727272727,0.20689655172413793
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Education / awareness,446,0.7763157894736842,0.13228699551569506,0.22605363984674332
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Institutional promotion / community news,638,0.5486307837582625,0.9106583072100314,0.6847377725397761
+qwen35_five_translated,Qwen 3.5,translated,five,Task B,Other / unclear,15,0.05405405405405406,0.13333333333333333,0.07692307692307693
+qwen35_five_translated,Qwen 3.5,translated,five,Task B.1,Risk / incident communication,401,0.8650306748466258,0.7032418952618454,0.7757909215955984
+qwen35_five_translated,Qwen 3.5,translated,five,Task B.1,Education / awareness,446,0.7763157894736842,0.13228699551569506,0.22605363984674332
+qwen35_five_translated,Qwen 3.5,translated,five,Task B.1,Institutional / community communication,638,0.5486307837582625,0.9106583072100314,0.6847377725397761
+qwen35_five_translated,Qwen 3.5,translated,five,Task B.1,Other / unclear,15,0.05405405405405406,0.13333333333333333,0.07692307692307693
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Water quality / safety / public health,65,0.6190476190476191,0.2,0.3023255813953489
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Service disruption / repair / infrastructure,226,0.9094827586206896,0.9336283185840708,0.9213973799126638
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Water conservation / drought / demand management,140,0.6904761904761905,0.6214285714285714,0.6541353383458647
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.7454545454545455,0.3014705882352941,0.4293193717277487
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.47039473684210525,0.6842105263157895,0.557504873294347
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Public education / heritage / community engagement,250,0.3793103448275862,0.704,0.4929971988795519
+qwen35_zero_native,Qwen 3.5,native,zero,Task A,Routine / institutional / customer service / other,474,0.7241379310344828,0.4430379746835443,0.5497382198952879
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Alert / warning,205,0.9,0.04390243902439024,0.08372093023255814
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Instruction / advice to public,164,0.5172413793103449,0.36585365853658536,0.42857142857142855
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Operational update / resolution,21,0.05982905982905983,0.6666666666666666,0.10980392156862745
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Reassurance / safety information,11,0.21428571428571427,0.2727272727272727,0.23999999999999996
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Education / awareness,446,0.5736040609137056,0.2533632286995516,0.35147744945567655
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Institutional promotion / community news,638,0.5714285714285714,0.7335423197492164,0.6424159231297185
+qwen35_zero_native,Qwen 3.5,native,zero,Task B,Other / unclear,15,0.049019607843137254,0.3333333333333333,0.08547008547008546
+qwen35_zero_native,Qwen 3.5,native,zero,Task B.1,Risk / incident communication,401,0.7941176470588235,0.7406483790523691,0.7664516129032258
+qwen35_zero_native,Qwen 3.5,native,zero,Task B.1,Education / awareness,446,0.5736040609137056,0.2533632286995516,0.35147744945567655
+qwen35_zero_native,Qwen 3.5,native,zero,Task B.1,Institutional / community communication,638,0.5714285714285714,0.7335423197492164,0.6424159231297185
+qwen35_zero_native,Qwen 3.5,native,zero,Task B.1,Other / unclear,15,0.049019607843137254,0.3333333333333333,0.08547008547008546
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Water quality / safety / public health,65,0.5625,0.13846153846153847,0.22222222222222224
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Service disruption / repair / infrastructure,226,0.9137931034482759,0.9380530973451328,0.925764192139738
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Water conservation / drought / demand management,140,0.717948717948718,0.6,0.6536964980544747
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Flood / stormwater / wastewater / sewer,136,0.7761194029850746,0.38235294117647056,0.5123152709359605
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Environmental sustainability / waste / recycling / biodiversity,209,0.4826388888888889,0.6650717703349283,0.5593561368209256
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Public education / heritage / community engagement,250,0.40350877192982454,0.736,0.5212464589235127
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task A,Routine / institutional / customer service / other,474,0.7111801242236024,0.4831223628691983,0.5753768844221105
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Alert / warning,205,0.75,0.014634146341463415,0.028708133971291867
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Instruction / advice to public,164,0.5583333333333333,0.40853658536585363,0.471830985915493
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Operational update / resolution,21,0.05668016194331984,0.6666666666666666,0.1044776119402985
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Reassurance / safety information,11,0.1875,0.2727272727272727,0.2222222222222222
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Education / awareness,446,0.6292134831460674,0.25112107623318386,0.358974358974359
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Institutional promotion / community news,638,0.5856622114216282,0.7554858934169278,0.6598220396988365
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B,Other / unclear,15,0.05454545454545454,0.4,0.096
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B.1,Risk / incident communication,401,0.7855297157622739,0.7581047381546134,0.7715736040609137
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B.1,Education / awareness,446,0.6292134831460674,0.25112107623318386,0.358974358974359
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B.1,Institutional / community communication,638,0.5856622114216282,0.7554858934169278,0.6598220396988365
+qwen35_zero_translated,Qwen 3.5,translated,zero,Task B.1,Other / unclear,15,0.05454545454545454,0.4,0.096

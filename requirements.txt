@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+sentence-transformers
+openai
+tenacity
+tqdm
+lingua-language-detector
+jupyter
+ipykernel

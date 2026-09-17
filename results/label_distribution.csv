@@ -1,0 +1,19 @@
+task,label,count,percent
+Task A,Routine / institutional / customer service / other,474,31.6
+Task A,Public education / heritage / community engagement,250,16.666666666666668
+Task A,Service disruption / repair / infrastructure,226,15.066666666666666
+Task A,Environmental sustainability / waste / recycling / biodiversity,209,13.933333333333334
+Task A,Water conservation / drought / demand management,140,9.333333333333334
+Task A,Flood / stormwater / wastewater / sewer,136,9.066666666666666
+Task A,Water quality / safety / public health,65,4.333333333333333
+Task B,Institutional promotion / community news,638,42.53333333333333
+Task B,Education / awareness,446,29.733333333333334
+Task B,Alert / warning,205,13.666666666666666
+Task B,Instruction / advice to public,164,10.933333333333334
+Task B,Operational update / resolution,21,1.4
+Task B,Other / unclear,15,1.0
+Task B,Reassurance / safety information,11,0.7333333333333333
+Task B.1,Institutional / community communication,638,42.53333333333333
+Task B.1,Education / awareness,446,29.733333333333334
+Task B.1,Risk / incident communication,401,26.733333333333334
+Task B.1,Other / unclear,15,1.0

@@ -5,6 +5,5 @@ type: dataset
 authors:
   - name: "Vishal Kumar"
   - name: "Mourad Oussalah"
-repository-code: "GITHUB_URL"
-url: "ZENODO_URL"
+
 
